@@ -1,5 +1,10 @@
 # Live-Organismal Transcriptomics
 XXXXXXXX
+## Main analysis with Live-organism transcriptome data
+>XXXXXX
+## Comparison of principal variance and Gini index
+XXXXXX
+
 ## Image analysis with Fucci data
 XXXXXX
 ## Find variavble genes
@@ -13,8 +18,4 @@ XXXXXX
 ## Regression with scGRNs and Fucci trajectories
 XXXXXX
 ## Estimation of RNA velicity by velocyto
-XXXXXX
-## Main analysis with Live-organism transcriptome data
-XXXXXX
-## Comparison of principal variance and Gini index
 XXXXXX
