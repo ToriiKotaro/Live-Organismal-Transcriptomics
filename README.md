@@ -1,5 +1,5 @@
 # Live-Organismal Transcriptomics
->Live-Organismal Transcriptomics is a method for profiling the real time-series of gene expression within individual living cells in single organisms. To use these notebooks, you will　some packages and tools accessible through both pip or conda.
+Live-Organismal Transcriptomics is a method for profiling the real time-series of gene expression within individual living cells in single organisms. To use these notebooks, you will　some packages and tools accessible through both pip or conda.
 
 ## Main analysis with Live-organism transcriptome data
 The analysis in a notebook, AnalysisofLiveOrganismalData.ipynb, is for Figs. 3B-G, 4B-E, 4G and Supplementary Figs. 9C-D, 10B-G, 11A-D.
